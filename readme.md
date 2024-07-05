@@ -1,3 +1,9 @@
+```sh
+npm audit fix --force
+npm init -y
+npm i
+npm install express
+```
 ```go
 my-project/
 ├── backend/
